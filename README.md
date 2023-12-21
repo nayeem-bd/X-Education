@@ -4,7 +4,7 @@
 This project involves the development of APIs for the X-Education online learning platform, focusing on functionalities associated with the "admin" user. The platform aims to provide course management capabilities for administrators and course listing details for clients. The technologies used for implementation include Node.js, Express.js, and JavaScript.
 
 ## Live link
-[X-Education](https://documenter.getpostman.com/view/24022565/2s9Ykq6fsb)
+[X-Education](https://x-education.cyclic.app)
 
 
 ## Run Locally
